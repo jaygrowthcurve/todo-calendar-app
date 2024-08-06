@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-calendar-app/static/css/main.a602c452.css",
+    "main.js": "/todo-calendar-app/static/js/main.6003824d.js",
+    "static/js/453.8353b0cb.chunk.js": "/todo-calendar-app/static/js/453.8353b0cb.chunk.js",
+    "index.html": "/todo-calendar-app/index.html",
+    "main.a602c452.css.map": "/todo-calendar-app/static/css/main.a602c452.css.map",
+    "main.6003824d.js.map": "/todo-calendar-app/static/js/main.6003824d.js.map",
+    "453.8353b0cb.chunk.js.map": "/todo-calendar-app/static/js/453.8353b0cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a602c452.css",
+    "static/js/main.6003824d.js"
+  ]
+}
